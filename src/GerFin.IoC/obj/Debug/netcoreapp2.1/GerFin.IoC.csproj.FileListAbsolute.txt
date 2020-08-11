@@ -1,0 +1,14 @@
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\bin\Debug\netcoreapp2.1\GerFin.IoC.deps.json
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\bin\Debug\netcoreapp2.1\GerFin.IoC.dll
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\bin\Debug\netcoreapp2.1\GerFin.IoC.pdb
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\bin\Debug\netcoreapp2.1\GerFin.ApplicationCore.dll
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\bin\Debug\netcoreapp2.1\GerFin.Infrastructure.dll
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\bin\Debug\netcoreapp2.1\GerFin.ApplicationCore.pdb
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\bin\Debug\netcoreapp2.1\GerFin.Infrastructure.pdb
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\obj\Debug\netcoreapp2.1\GerFin.IoC.csprojAssemblyReference.cache
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\obj\Debug\netcoreapp2.1\GerFin.IoC.AssemblyInfoInputs.cache
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\obj\Debug\netcoreapp2.1\GerFin.IoC.AssemblyInfo.cs
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\obj\Debug\netcoreapp2.1\GerFin.IoC.csproj.CopyComplete
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\obj\Debug\netcoreapp2.1\GerFin.IoC.dll
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\obj\Debug\netcoreapp2.1\GerFin.IoC.pdb
+D:\REPOSITORIOS_GIT\ESTUDOS_PROGRAMACAO\EstudosDev\AspNetCoreCleanDDDApp\GerFin\src\GerFin.IoC\obj\Debug\netcoreapp2.1\GerFin.IoC.csproj.CoreCompileInputs.cache

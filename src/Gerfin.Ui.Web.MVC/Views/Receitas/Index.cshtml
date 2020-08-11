@@ -1,0 +1,49 @@
+﻿@using GerFin.ApplicationCore.DTO;
+
+@model IEnumerable<ReceitaDTO>;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Receitas</h1>
+
+<button id="novaReceita" class="btn btn-success">
+    Adicionar
+</button>
+
+<table class="table table-hover">
+    <tr>
+        <th>ID</th>
+        <th>Descricao</th>
+        <th>Valor</th>
+        <th>Recebido</th>
+        <th>Dt.Recebido</th>
+        <th>Recorrente</th>
+    </tr>
+
+    @foreach (ReceitaDTO receita in Model)
+    {
+        <tr>
+            <td>@receita.ReceitaId</td>
+            <td>@receita.Descricao</td>
+            <td>@receita.ValorFormatado()</td>
+            <td>@receita.Recebido</td>
+            <td>@receita.DataRecebido</td>
+            <td>@receita.Recorrente</td>
+        </tr>
+    }
+</table>
+
+@section Scripts {
+    <script src="~/js/views/Receitas.js"></script>
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+<script>
+    $(function () {
+        carregarModalNovaReceita();
+    });
+</script>
+
+}

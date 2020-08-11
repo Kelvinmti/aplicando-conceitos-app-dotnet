@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.API\\GerFin.API.csproj": {}
+  },
+  "projects": {
+    "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\ApplicationCore\\GerFin.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\ApplicationCore\\GerFin.ApplicationCore.csproj",
+        "projectName": "GerFin.ApplicationCore",
+        "projectPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\ApplicationCore\\GerFin.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\kelvi\\.nuget\\packages\\",
+        "outputPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kelvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.API\\GerFin.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.API\\GerFin.API.csproj",
+        "projectName": "GerFin.API",
+        "projectPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.API\\GerFin.API.csproj",
+        "packagesPath": "C:\\Users\\kelvi\\.nuget\\packages\\",
+        "outputPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.API\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kelvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.IoC\\GerFin.IoC.csproj": {
+                "projectPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.IoC\\GerFin.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.16, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.16, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.Infrastructure\\GerFin.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.Infrastructure\\GerFin.Infrastructure.csproj",
+        "projectName": "GerFin.Infrastructure",
+        "projectPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.Infrastructure\\GerFin.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\kelvi\\.nuget\\packages\\",
+        "outputPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kelvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\ApplicationCore\\GerFin.ApplicationCore.csproj": {
+                "projectPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\ApplicationCore\\GerFin.ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.IoC\\GerFin.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.IoC\\GerFin.IoC.csproj",
+        "projectName": "GerFin.IoC",
+        "projectPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.IoC\\GerFin.IoC.csproj",
+        "packagesPath": "C:\\Users\\kelvi\\.nuget\\packages\\",
+        "outputPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kelvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\ApplicationCore\\GerFin.ApplicationCore.csproj": {
+                "projectPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\ApplicationCore\\GerFin.ApplicationCore.csproj"
+              },
+              "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.Infrastructure\\GerFin.Infrastructure.csproj": {
+                "projectPath": "D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin.Infrastructure\\GerFin.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

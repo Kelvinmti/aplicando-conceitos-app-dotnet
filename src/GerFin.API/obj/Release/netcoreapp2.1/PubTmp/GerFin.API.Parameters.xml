@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="gerfinapi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\REPOSITORIOS_GIT\\ESTUDOS_PROGRAMACAO\\EstudosDev\\AspNetCoreCleanDDDApp\\GerFin\\src\\GerFin\.API\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
